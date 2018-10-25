@@ -1,0 +1,39 @@
+{
+  "____comment": "If there would be an ABI generator for eosio-rust, this would be automatically generated.",
+  "version": "eosio::abi/1.0",
+  "types": [],
+  "structs": [{
+      "name": "empty",
+      "base": "",
+      "fields": []
+    }
+  ],
+  "actions": [{
+      "name": "now",
+      "type": "empty",
+      "ricardian_contract": "# This is the first sopisticated Rust contract\n"
+    },
+    {
+      "name": "me",
+      "type": "empty",
+      "ricardian_contract": "# This is the first sopisticated Rust contract\n"
+    },
+    {
+      "name": "this",
+      "type": "empty",
+      "ricardian_contract": "# This is the first sopisticated Rust contract\n"
+    },
+    {
+      "name": "hello",
+      "type": "empty",
+      "ricardian_contract": "# This is the first sopisticated Rust contract\n"
+    },
+  ],
+  "tables": [],
+  "ricardian_clauses": [{
+      "id": "Why?",
+      "body": "This is the first Rust contract doing something useful, like showing the time. See more at: https://github.com/villesundell/eosio-rust.\n\n"
+    }],
+  "error_messages": [],
+  "abi_extensions": []
+}

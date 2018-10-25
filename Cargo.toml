@@ -1,0 +1,10 @@
+[package]
+name = "eosio-rust"
+version = "0.1.0"
+authors = ["Ville Sundell <development@solarius.fi>"]
+
+[lib]
+path = "src/eosio-rust.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
